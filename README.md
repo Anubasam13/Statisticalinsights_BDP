@@ -4,7 +4,7 @@
 ## 📌 Project Description
 This project explores historical global mortality data with a specific focus on analyzing causes of death across various countries using fundamental statistical techniques. The dataset includes over 6,000 records and 36 variables detailing causes of death across age groups, geographies, and time.
 
-The project utilizes business decision tools learned in the course, including confidence intervals, hypothesis testing, ANOVA, and multiple regression models, to extract actionable insights about global health trends.
+The project utilizes business decision tools including confidence intervals, hypothesis testing, ANOVA, and multiple regression models, to extract actionable insights about global health trends.
 
 ---
 
